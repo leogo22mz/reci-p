@@ -1,0 +1,65 @@
+.profile-container {
+    background-color: #48B936;
+    padding-top: 20px;
+    min-height: 100vh;
+  }
+  
+  .form-container {
+    background-color: #6CD15C;
+    padding: 20px;
+    border-radius: 8px;
+    max-width: 300px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .avatar-placeholder {
+    height: 80px;
+    width: 80px;
+    background-color: #E08041;
+    border-radius: 50%;
+    margin-bottom: 20px;
+    align-self: center;
+  }
+  
+  .input-field {
+    margin-bottom: 10px;
+  }
+  
+  /* Button styles */
+  .change-button, .log-button, .sign-button {
+    margin-top: 10px;
+    width: 100%;
+  }
+  
+  /* Style for the Log Out button in Profile */
+  .log-button {
+    background-color: #FF4500; /* Orange color for Log Out */
+    border-color: #FF4500; /* Match border color to background */
+    color: white;
+  }
+  
+  /* Style for the Sign Up button in Log In and Sign Up pages */
+  .sign-button {
+    background-color: #32CD32; /* Lime Green color for Sign Up */
+    border-color: #32CD32;
+    color: white;
+  }
+  
+  /* Style for the Log In button in Log In and Sign Up pages */
+  .login-button {
+    background-color: #FFA500; /* Orange color for Log In */
+    border-color: #FFA500;
+    color: E08041;
+  }
+  
+  /* Add hover effects if needed */
+  .ant-btn:hover {
+    opacity: 0.8;
+  }
+  
+  .ant-input {
+    margin-bottom: 10px;
+  }
+  

@@ -1,0 +1,24 @@
+
+.toolbar{
+    overflow: hidden;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+
+button{
+    color: black;
+    background-color: #E08041;
+    border: none;
+    width: 25%;
+    height: 40px;
+    transition: background-color 0.3s ease;
+}
+button:hover{
+    background-color: #A1450A;
+}
+
+.buttonIcon{
+    font-size: x-large
+}

@@ -1,0 +1,28 @@
+.upload-background {
+    background-color: #48B936;
+    padding-top: 20px;
+    height: 100vh;
+  }
+  
+  .upload-container {
+    background-color: #FFFFFF;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: #6CD15C;
+  }
+  
+  .upload-container .ant-form-item-label label {
+    text-align: left;
+  }
+  
+  .upload-container .ant-form-item {
+    margin-bottom: 16px;
+  }
+  
+  .ant-upload.ant-upload-select-picture-card {
+    width: auto;
+    height: auto;
+  }
+  

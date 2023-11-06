@@ -1,0 +1,16 @@
+.explore-background {
+    background-color: #48B936;
+    padding-top: 20px;
+}
+
+.map-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.map {
+    width: 95%;
+    border: 6px solid #0E6400;
+    border-radius: 10px;
+}

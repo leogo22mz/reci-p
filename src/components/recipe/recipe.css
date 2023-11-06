@@ -1,0 +1,19 @@
+.recipe-container{
+    background-color: #48B936;
+    padding: 4px;
+    border-radius: 10px;
+}
+.recipe{
+    background-color: #6CD15C;
+    padding: 4px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+
+}
+
+.timer{
+    padding-right: 20px;
+    padding-top: 10px;
+    align-items: center;
+    text-align: center;
+}

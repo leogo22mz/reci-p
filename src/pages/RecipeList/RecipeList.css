@@ -1,0 +1,15 @@
+.recipe-list-background{
+    background-color: #48B936;
+    padding-top: 20px;
+}
+
+.recipe-list{
+    padding: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 120%;
+}
+h1{
+    padding: 10px;
+}
